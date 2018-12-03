@@ -1,4 +1,5 @@
-//This program takes either an integer or a character expression input and prints whether or not it is a palindrome. Created by Geoff Gaugler, finished on 10/7/2018 
+/*This program takes either an integer or a character expression input and prints whether or not it is a palindrome. 
+Created by Geoff Gaugler for CS 501 stack project. */
 #include <iostream>
 #include <stack>
 #include <string>
