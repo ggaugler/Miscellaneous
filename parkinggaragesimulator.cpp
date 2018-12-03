@@ -1,4 +1,4 @@
-/*Garage project (project 3) for CS 112. This simulates a parking service in multiple garages. From the project description: 
+/*Garage project (project 3) for CS 501. This simulates a parking service in multiple garages. From the project description: 
 "When a car arrives it tries to park in the LOWER WEST. If no room it goes to the UPPER WEST...If still no room it waits in EAST.
 When a car departs a message should indicate where it departed from (i.e. which garage). If there is a car waiting to get in the 
 garage (because both are full) then the first car in the EAST must be moved into the garage that now has room and a message stating  
