@@ -1,4 +1,4 @@
-/* CS 112 Project 5 by Geoff Gaugler. Inputs 20 strings into a binary tree. 
+/* CS 501 Project 5 by Geoff Gaugler. Inputs 20 strings into a binary tree. 
 Prints out the inorder, preorder and postorder traversals indicating the 
 level of each node as it's printed out. Also prints the number of leaves
 in the tree, the number of nodes with one child, number of nodes with two children,
