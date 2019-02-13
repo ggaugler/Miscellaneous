@@ -27,7 +27,7 @@ int main()
 	return 0;
 }
 
-void numeric() //function carried out if the user input is numeric
+void numeric() //function executed if the user input is numeric
 {
 	//convert int input to string so we can loop over each character in the string
 	int expression;
@@ -72,7 +72,6 @@ void numeric() //function carried out if the user input is numeric
 			cout << array2[i];
 	}
 }
-
 void characters() //function to be carried out when the input is one consisting of characters.
 {
 	//inputting expression and removing punctuation and spaces from it
